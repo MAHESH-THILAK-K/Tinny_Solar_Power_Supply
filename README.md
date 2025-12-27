@@ -33,6 +33,7 @@ Tiny_Solar_Power_Supply/
 ```
 
 🔧 How it Works
+
 ☀️ Daytime (Charging mode)
 Solar panel voltage is high. Current flows through the protection diode.
 The boost converter is mostly disabled to reduce losses.
@@ -47,12 +48,14 @@ A small solar panel (e.g., 3–6 V)
 Basic electronics tools for soldering and testing (multimeter, USB power meter, etc.)
 
 Build & Order
+
 Open the KiCad project in the Hardware/KiCad folder.
 Generate or use the provided Gerber files in Gerbers/ for PCB manufacturing.
 Order boards from JLCPCB, PCBWay, or any other PCB manufacturer.
 Use BOM.csv and Tiny_Solar_Power_Supply-pos.csv for assembly services.
 
 Basic Usage
+
 Connect the solar panel to the SOLAR IN pads.
 Take regulated power from the VOUT and GND pins.
 Optionally use the on‑board switch to turn the output on/off.
