@@ -1,4 +1,5 @@
 ☀️ Tiny Solar Power Supply 🔋
+
 An ultra-compact solar-powered DC supply for low-power electronics, sensors, and hobby projects.
 Tiny Solar Power Supply is a small, efficient power module that takes energy from a mini solar panel and delivers a stable regulated output for your circuits. It is ideal for IoT nodes, garden lights, and always-on sensor projects where wiring a mains adapter is not practical.
 ✨ Key Features
