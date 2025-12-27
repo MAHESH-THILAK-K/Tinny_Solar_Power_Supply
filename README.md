@@ -24,35 +24,14 @@ Tiny Solar Power Supply is a small, efficient power module that takes energy fro
 | PCB                | 2‑layer, compact layout, through‑hole connectors |
 
 📦 Repository Structure
-├── Hardware/
-│   ├── KiCad/
-│   │   ├── tiny_solar_power_supply.kicad_sch
-│   │   └── tiny_solar_power_supply.kicad_pcb
-│   ├── Gerbers/
-│   │   ├── *.gbr
-│   │   └── *.drl
-│   └── 3D/
-│       └── tiny_solar_power_supply.step
-│
-├── Assembly/
-│   ├── BOM.csv
-│   └── tiny_solar_power_supply-pos.csv
-│
-├── Docs/
-│   ├── Tiny_Solar_Power_Supply_Schematic.pdf
-│   └── Tiny_Solar_Power_Supply_Overview.md
-│
-├── Images/
-│   ├── TOP_VIEW.png
-│   ├── BOTTOM_VIEW.png
-│   └── 3D_RENDER.png
-│
-├── Examples/
-│   └── Basic_Connection_Diagram.md
-│
+```
+Tiny_Solar_Power_Supply/
 ├── README.md
-└── LICENSE.md
-
+├── tiny_solar_power_supply-all-pos.csv
+├── tiny_solar_power_supply.kicad_pcb
+├── tiny_solar_power_supply.kicad_pro
+└── tiny_solar_power_supply.kicad_sch
+```
 🔧 How it Works
 ☀️ Daytime (Charging mode)
 Solar panel voltage is high. Current flows through the protection diode.
