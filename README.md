@@ -36,6 +36,7 @@ Tiny_Solar_Power_Supply/
 ☀️ Daytime (Charging mode)
 Solar panel voltage is high. Current flows through the protection diode.
 The boost converter is mostly disabled to reduce losses.
+
 🌙 Nighttime (Power mode)
 When solar voltage drops, the circuit automatically switches.
 The boost converter turns ON, stepping up to stable 3.3 V / 5 V output.
