@@ -1,0 +1,9 @@
+### Missing 3D models - created on 2026-01-02 21:03
+### Printed by checking_3D_models plugin
+Board file: E:/KiCad/PROJECTS/tiny_solar_power_supply/tiny solar power supply.kicad_pcb
+3D missing models written to:
+E:\KiCad\PROJECTS\tiny_solar_power_supply\tiny solar power supply_missing3Dmodels.txt
+-------
+-------
+NUM of 3D missing models:0
+checked extensions ['.stp', '.step', '.stpZ']
